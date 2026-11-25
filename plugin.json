@@ -1,0 +1,10 @@
+{
+  "id": "com.midiadeck.lyricsstudio",
+  "name": "Lyrics Studio",
+  "version": "1.0.4",
+  "description": "Editor de Projetos de Louvor e letras sincronizadas",
+  "category": "Mídia",
+  "thumbnail": "thumbnail.png",
+  "entryWeb": "dist/index.html",
+  "minimumHostVersion": "1.7.0"
+}

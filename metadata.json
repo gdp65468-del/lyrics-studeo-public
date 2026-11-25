@@ -1,0 +1,8 @@
+{
+  "name": "MediaDeck Navigator",
+  "description": "A professional media asset manager with folder-first navigation and dark technical aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
